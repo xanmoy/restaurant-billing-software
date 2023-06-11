@@ -46,4 +46,4 @@ Before contributing, please review the [contribution guidelines](CONTRIBUTING.md
 
 ## License
 
-The Restaurant Billing Software project is licensed under the [MIT License](LICENSE).
+The Restaurant Billing Software project is licensed under the [ GNU GENERAL PUBLIC LICENSE](LICENSE).

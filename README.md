@@ -20,6 +20,7 @@ Restaurant Billing Software is a comprehensive solution designed to streamline t
 
 1. Clone the repository: `git clone https://github.com/xanmoy/Restaurant-Billing-Software.git`
 2. Install the necessary dependencies: `pacman -S --needed base-devel mingw-w64-x86_64-toolchain`
+2. Install BillingX: [Install](https://github.com/xanmoy/Restaurant-Billing-Software/blob/main/main)
 <!-- 3. Configure the database connection in the `config.js` file. -->
 <!-- 4. Start the application: `npm start` -->
 

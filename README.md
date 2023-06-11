@@ -1,6 +1,6 @@
 # Restaurant Billing Software
 
-![Restaurant Billing Software Logo](./logo.png)
+<!-- ![Restaurant Billing Software Logo](./logo.png) -->
 
 Restaurant Billing Software is a comprehensive solution designed to streamline the billing process in restaurants. It provides an efficient and user-friendly interface for managing orders, generating bills, and handling payments. This software aims to enhance the overall dining experience for both customers and restaurant staff.
 
